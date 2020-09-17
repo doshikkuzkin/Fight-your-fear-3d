@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Boss">
+    <Position X="3.25" Y="1.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>BARAAAAIACACgAAAAAAAAIBAAIAAAAABAAAAgAAQAAg=</HashCode>
+      <FileName>Assets\Scripts\Boss.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChaseBehaviour">
+    <Position X="7.25" Y="1.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAACAAAYgAAQABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChaseBehaviour.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PatrolBehaviour">
+    <Position X="5.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAYAAAQAAAAAAAAAAACA=</HashCode>
+      <FileName>Assets\Scripts\PatrolBehaviour.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
